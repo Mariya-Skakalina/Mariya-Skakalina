@@ -17,6 +17,9 @@
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)](#)
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Yandex DataLens](https://img.shields.io/badge/Yandex_DataLens-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 ### 📈 Чем я занимаюсь:
 *   **A/B тестирование:** проектирование экспериментов, расчет мощности и выборки, оценка статзначимости (Z-тест, T-тест).
 *   **Продуктовые метрики:** расчет и визуализация DAU/WAU, Retention, Conversion Rate, LTV.
