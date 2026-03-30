@@ -18,7 +18,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)](#)
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Yandex DataLens](https://img.shields.io/badge/Yandex_DataLens-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Yandex DataLens](https://img.shields.io/badge/Yandex_DataLens-027bfe?style=for-the-badge&logo=powerbi&logoColor=fff)
 
 ### 📈 Чем я занимаюсь:
 *   **A/B тестирование:** проектирование экспериментов, расчет мощности и выборки, оценка статзначимости (Z-тест, T-тест).
