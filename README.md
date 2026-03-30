@@ -4,9 +4,11 @@
 
 ### 🛠 Мой стек технологий:
 ![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=fff&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff&logoSize=auto)
+
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) 
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
-[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=fff)](#)
 [![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
 [![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
