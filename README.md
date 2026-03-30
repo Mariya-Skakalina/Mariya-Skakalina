@@ -19,6 +19,11 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Yandex DataLens](https://img.shields.io/badge/Yandex_DataLens-027bfe?style=for-the-badge&logo=powerbi&logoColor=fff)
+![Tableau](https://img.shields.io/badge/tableau-032D60?style=for-the-badge&logo=powerbi&logoColor=fff)
+
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0f9d58?style=for-the-badge&logo=googlesheets&logoColor=fff&logoSize=auto)
+![Microsoft Excel](https://camo.githubusercontent.com/4062ba4a755343e38a115e7a1ce0efa5f2a1b0a4b23cb72a982f9b4bbb8aabdb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f457863656c2d3231373334363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d657863656c266c6f676f436f6c6f723d7768697465)
+
 
 ### 📈 Чем я занимаюсь:
 *   **A/B тестирование:** проектирование экспериментов, расчет мощности и выборки, оценка статзначимости (Z-тест, T-тест).
