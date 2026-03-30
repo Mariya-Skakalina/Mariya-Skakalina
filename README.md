@@ -3,17 +3,7 @@
 Специализируюсь на продуктовой аналитике и проверке гипотез. Придерживаюсь доказательного подхода: принимаю решения на основе сухих цифр и статистических тестов, а не интуиции.
 
 ### 🛠 Мой стек технологий:
-*   **Языки:** [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#), ![Pandas](https://img.shields.io)
-![NumPy](https://img.shields.io)
-![SciPy](https://img.shields.io)
-![Matplotlib](https://img.shields.io)
-![Seaborn](https://img.shields.io)
-![Jupyter Notebook](https://img.shields.io)
-![Git](https://img.shields.io)
-
-*   **Базы данных:** SQL (PostgreSQL, ClickHouse) — *если уже учила/учишь*
-*   **Визуализация:** Seaborn, Matplotlib, Plotly, Tableau/Power BI — *выбери свое*
-*   **Инструменты:** Jupyter Notebook, Git, Excel (Pivot, Power Query)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#), [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#), [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#), [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#), [![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#), ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#), [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 
 ### 📈 Чем я занимаюсь:
 *   **A/B тестирование:** проектирование экспериментов, расчет мощности и выборки, оценка статзначимости (Z-тест, T-тест).
