@@ -3,7 +3,7 @@
 Специализируюсь на продуктовой аналитике и проверке гипотез. Придерживаюсь доказательного подхода: принимаю решения на основе сухих цифр и статистических тестов, а не интуиции.
 
 ### 🛠 Мой стек технологий:
-*   **Языки:** ![Python](https://img.shields.io), ![Pandas](https://img.shields.io)
+*   **Языки:** [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#), ![Pandas](https://img.shields.io)
 ![NumPy](https://img.shields.io)
 ![SciPy](https://img.shields.io)
 ![Matplotlib](https://img.shields.io)
